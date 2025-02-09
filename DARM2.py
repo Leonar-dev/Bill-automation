@@ -1,5 +1,5 @@
 #Importando as bibliotecas pyaotogui e time
-#Obs é necessario mudar o point do click de acordo com seu monitor (Resolução)
+#Obs --- é necessario mudar o point do click de acordo com seu monitor (Resolução) ---
 import pyautogui
 import time
 
